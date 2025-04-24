@@ -10,3 +10,6 @@ batalla
 *~
 *.swp
 .DS_Store
+
+
+batalla.cpp
