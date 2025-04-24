@@ -1,0 +1,12 @@
+# Compilados
+ImperiumCodeCompiler
+batalla
+*.o
+*.out
+*.exe
+*.cpp
+
+# Archivos temporales
+*~
+*.swp
+.DS_Store

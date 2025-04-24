@@ -1,0 +1,4 @@
+HONOR_THE_EMPEROR {
+    TRANSMIT("¡Por el Emperador y por Ultramar!");
+    TRANSMIT("¡La disciplina y el deber son nuestro escudo!");
+}
