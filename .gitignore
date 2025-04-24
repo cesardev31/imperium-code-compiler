@@ -4,7 +4,7 @@ batalla
 *.o
 *.out
 *.exe
-*.cpp
+
 
 # Archivos temporales
 *~
